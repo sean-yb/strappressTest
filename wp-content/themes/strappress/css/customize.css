@@ -1,0 +1,7 @@
+.menu li{
+	float:left;
+}
+.menu li a{
+	padding:20px;
+	display:block;
+}
